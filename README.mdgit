@@ -1,0 +1,2 @@
+"# mvc_start"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/seinaru/mvc_start.gitgit push -u origin master
+"# mvc_start"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/seinaru/mvc_start.gitgit push -u origin master
